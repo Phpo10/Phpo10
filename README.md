@@ -3,7 +3,7 @@
 
 <!--título-->
 <p>
- Olá! meu nome é Pedro Henrique
+ Olá! meu nome é Pedro Henrique Perzentino
 
 - Estudo Ciência da Computação.
 - 3º Semestre
