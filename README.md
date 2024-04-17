@@ -4,10 +4,11 @@
 <!--título-->
 <p>
  Olá! meu nome é Pedro Henrique
- 
-- Estudante de Ciência da Computação.
 
-- Estou direcionando meus esforços e aprimorando minhas habilidades no desenvolvimento back-end.
+- Estudo Ciência da Computação.
+- 3º Semestre
+
+- Estou direcionando meus estudos e esforços na parte de desenvolvimento back-end.
 </p>
 
 <!--Descrições Adicionais-->
@@ -16,7 +17,7 @@
 
    - Tenho experiência com HTML, CSS, Python, C.
    - Intermediário em Python.
-   - Apaixonado por programação, livros, animes e mangás. 
+   - Apaixonado por programação, psicologia, livros, animes e mangás. 
 </details>
 
 <!--Links Redes Sociais-->
