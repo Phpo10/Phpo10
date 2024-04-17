@@ -16,7 +16,7 @@
 
    - Tenho experiência com HTML, CSS, Python, C.
    - Intermediário em Python.
-   - Apaixonado por programação, psicologia, livros, animes e mangás. 
+   - Apaixonado por programação, psicologia, livros, jogos, animes e mangás. 
 </details>
 
 <!--Links Redes Sociais-->
