@@ -5,7 +5,7 @@
 <p>
  Olá! meu nome é Pedro Henrique Perzentino
 
-- Estudo Ciência da Computação / 5º Semestre.
+- Estudo Ciência da Computação / 6º Semestre.
 
 - Estou direcionando meus estudos e esforços na parte de desenvolvimento back-end.
 </p>
@@ -14,7 +14,7 @@
 <details>
   <summary> Mais sobre mim </summary>
 
-   - Tenho experiência com HTML, CSS, Python, C.
+   - Tenho experiência com HTML, CSS, Python, C, MySql.
    - Intermediário em Python.
    - Apaixonado por programação, psicologia, livros, jogos, animes e mangás. 
 </details>
