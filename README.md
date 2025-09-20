@@ -45,4 +45,8 @@
         <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
         <figcaption style="display: block; text-align: center;">C</figcaption>
     </figure>
+    <figure>
+        <img align="center" alt="MySql" height="30" width="40" scr="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png">
+        <figcaption style="display: block; text-align: center;">MySql</figcaption>
+    </figure>
 </div>
