@@ -5,7 +5,7 @@
 <p>
  Olá! meu nome é Pedro Henrique Perzentino
 
-- Estudo Ciência da Computação / 6º Semestre.
+- Estudo Ciência da Computação / 7º Semestre.
 
 - Estou direcionando meus estudos e esforços na parte de desenvolvimento back-end.
 </p>
