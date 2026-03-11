@@ -28,16 +28,6 @@
 
 ---
 
-## 🚀 Projetos em Desenvolvimento
-
-🔐 **Gerador de Senhas em Python**  
-Aplicação com interface gráfica que gera senhas seguras personalizadas.
-
-🎮 **Mini jogo em Python**  
-Projeto desenvolvido para praticar lógica de programação e desenvolvimento de jogos.
-
----
-
 ## 🌎 Contato
 
 LinkedIn: https://www.linkedin.com/in/phpo/  
