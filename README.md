@@ -37,5 +37,5 @@
 
 ## 🌎 Contato
 
-LinkedIn:[(seu link)](https://www.linkedin.com/in/phpo/)  
+LinkedIn:https://www.linkedin.com/in/phpo/
 Email: PhpoProfissional@gmail.com
