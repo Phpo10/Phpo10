@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Pedro Henrique Perzentino
+# Olá, eu sou Pedro Henrique Perzentino Oiticica
 
-🎓 Estudante de Ciência da Computação (7º semestre)  
+🎓 Estudante de Ciência da Computação (7º semestre) (Uniruy Wyden)
 💻 Focado em desenvolvimento Back-end  
 🎮 Apaixonado por jogos, tecnologia, psicologia e leitura
 
@@ -9,8 +9,9 @@
 ## 🚀 Sobre mim
 
 - Estudante de Ciência da Computação
-- Experiência com HTML, CSS, Python, C e MySQL
-- Nível intermediário em Python
+- Experiência com Python, C, Mysql, Php
+- Linguagem com mais dominio: Python
+- Nivel Básico em inglês
 - Interessado em desenvolvimento de software e games
 
 ---
@@ -20,31 +21,21 @@
 ### Linguagens
 - Python
 - C
-- HTML
-- CSS
+- Php
 
 ### Banco de dados
 - MySQL
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Projetos em Desenvolvimento
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact)
-
----
-
-## 🚀 Projetos
-
-🔐 Gerador de Senhas em Python  
+🔐 Gerador de Senhas em Python 
 🎮 Mini jogo em Python  
-📊 Exercícios de algoritmos
 
 ---
 
 ## 🌎 Contato
 
-LinkedIn: (seu link)  
-Email: (seu email)
+LinkedIn:[(seu link)](https://www.linkedin.com/in/phpo/)  
+Email: PhpoProfissional@gmail.com
